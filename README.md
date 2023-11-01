@@ -5,3 +5,4 @@ Improve performance [zTNSub] line 8.2
 Improve performance [zTNSub] line 8.3
 Refactor codebase with Z [RCwKt1] line 9.2
 Fix issue in Y [a25YoS] line 10.2
+Update documentation [XxHzNP] line 11.2

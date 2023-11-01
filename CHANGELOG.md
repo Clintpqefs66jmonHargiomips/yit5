@@ -8,3 +8,5 @@ Fix issue in Y [ViQYin] line 6.3
 Add test case for W [lRLTZr] line 7.1
 Add test case for W [lRLTZr] line 7.3
 Fix issue in Y [a25YoS] line 10.1
+Update documentation [XxHzNP] line 11.1
+Update documentation [XxHzNP] line 11.3
